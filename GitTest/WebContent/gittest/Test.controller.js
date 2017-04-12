@@ -6,7 +6,7 @@ sap.ui.controller("gittest.Test", {
 * @memberOf gittest.Test
 */
 	onInit: function() {
-
+//test
 	},
 
 /**
